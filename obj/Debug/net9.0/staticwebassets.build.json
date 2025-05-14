@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "yUkXVbi/7omH08j2ea8DN/gic+ff4DzWGIe916kcpNc=",
+  "Source": "AzureDemoApi",
+  "BasePath": "_content/AzureDemoApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
